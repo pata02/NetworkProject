@@ -3,6 +3,9 @@
 <br>
 <br>
 
+* Task 1 - Part
 * Task 2 - TCPClient. Implement a program to open a socket to a web server. It is able to send and recieve data with different parameters.
   
 * Task 3 - HTTPAsk. Make a server that listens to HTTP requests from the browser and uses TCPClient to recieve data. Send this data back to the browser with correct data codes.
+
+
